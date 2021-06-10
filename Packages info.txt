@@ -1,0 +1,14 @@
+cmd: npm run server
+
+=> npm i express morgan dotenv colors cors 
+	
+	Express Js ( for server)
+	morgan (simplifies the process of logging requests to your application)
+    dotenv  (for security )
+	colors
+	cors (for checking api hit(cross origin), results will shows in terminal)
+
+=> node_modules (peer dependencies)
+
+=> npm install -g nodemon (avoid re-starting node server)
+cmd: npm run server
