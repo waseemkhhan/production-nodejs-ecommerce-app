@@ -17,7 +17,7 @@ import connectDB from "./config/db.js";
 //database connection
 connectDB();
 // stripe configuration
-//Git Ignore
+
 
 
 
