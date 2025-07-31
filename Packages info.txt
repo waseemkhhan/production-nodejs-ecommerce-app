@@ -13,4 +13,3 @@ cmd: npm run server
 => npm install -g nodemon (avoid re-starting node server)
 cmd: npm run server 
 
-ths 
